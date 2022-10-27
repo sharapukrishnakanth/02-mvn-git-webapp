@@ -21,6 +21,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>02-mvn-git-assig-webapplication</finalName>
+    <finalName>02-mvn-git-assig-webap</finalName>
   </build>
 </project>
