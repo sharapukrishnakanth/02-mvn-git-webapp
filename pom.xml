@@ -21,6 +21,8 @@
     </dependency>
   </dependencies>
   <build>
+feature
     <finalName>02-mvn-git-assig-webapp2</finalName>
+ main
   </build>
 </project>
